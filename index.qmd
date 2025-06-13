@@ -1,5 +1,5 @@
 ---
-title: "medicogal-HDS-blog"
+title: "Shrutika's career pivoting HDS blog"
 listing:
   contents: posts
   sort: "date desc"
